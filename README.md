@@ -1,5 +1,5 @@
 # 🎧 kasa
-💃🏻 Predicting Idol Growth
+💃🏻 Trend by music genre 
 
 ## ⛵ Index 
 #### 1.프로젝트 소개
