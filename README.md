@@ -1,26 +1,29 @@
-# 🔍 kasa
-👁‍🗨 Predicting Idol Growth
+# 🎧 kasa
+💃🏻 Predicting Idol Growth
 
-## 📸 Index
-<details open="open">
-  <ol>
-    <li>  프로젝트 소개</li>
-    <li>  기술 스택</li>
-    <li>  팀원 정보</li>
-    <li>  Doc</li>
-  </ol>
-</details>
+## ⛵ Index 
+#### 1.프로젝트 소개
+#### 2.구상 
+#### 3.시각화 
+#### 4.팀원소개
 
-## 🐧 프로젝트 소개  
-<ul>
-  <li>아이돌 성장 예측</li>
-  <ul>
-    <li>Attention~!</li>
-  </ul>
-</ul>
+## 1.프로젝트 소개 
+- 뉴스 기사(음악 시장, 연도별 음원 발매 현황) → 그림
 
-## Team Member
-> BigData Project
+→ 음악 시장이 점차 확대되고 있으며, 그러므로 아티스트들은 트렌드를 반영한 음악을 만들고자 한다.
+
+- 트렌드를 반영하고자 하는 이유
+
+→ 적은 노력으로 성공하기
+
+⇒ 이를 위해 가사로 주제와 장르를 분석하고자 함.
+
+## 2.구상   
+## 3.시각화 
+ 
+
+## 4.팀원소개
+> 🍡 BigData Project
 
 | Name | Role | Contect |   
 |:---:|:---:|:---:| 
