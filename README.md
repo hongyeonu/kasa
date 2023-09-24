@@ -21,9 +21,8 @@
 ## 2.구상   
 ## 3.시각화 
  
-
 ## 4.팀원소개
-> 🍡 BigData Project
+> 🧊 BigData Project
 
 | Name | Role | Contect |   
 |:---:|:---:|:---:| 
