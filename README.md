@@ -26,6 +26,6 @@
 
 | Name | Role | Contect |   
 |:---:|:---:|:---:| 
-|홍연우| 개발 | mondmoonlight@naver.com |   
+|홍연우| 개발 | hyw_02@naver.com |   
 |이예영| 개발 | suspender1107@icloud.com |
 |한혜지| 개발 | hanhj9925@gmail.com |
