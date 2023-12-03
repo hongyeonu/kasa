@@ -34,8 +34,9 @@
   ![Untitled (1)](https://github.com/hongyeonu/kasa/assets/84232170/22e1cf50-f9e1-47cc-802c-f3473b88833e)
 
 ## 3.시각화 
+<img width="595" alt="KakaoTalk_Photo_2023-12-04-05-58-51" src="https://github.com/hongyeonu/kasa/assets/84232170/4283173f-593d-44b1-b617-39554e8c449f">
 <img width="395" alt="KakaoTalk_Photo_2023-12-04-05-58-46" src="https://github.com/hongyeonu/kasa/assets/84232170/1fcd247f-b950-41e7-8bdc-c8d302bef5ae">
-<img width="395" alt="KakaoTalk_Photo_2023-12-04-05-58-46" src="https://github.com/hongyeonu/kasa/assets/84232170/fe5259d1-b026-49de-b0bf-06805b49aed9">
+
 
 ## 4.팀원소개
 > 🧊 BigData Project
